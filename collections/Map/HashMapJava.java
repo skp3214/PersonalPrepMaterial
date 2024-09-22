@@ -22,5 +22,9 @@ public class HashMapJava {
         for (Map.Entry<Integer,String> m:map.entrySet()) {
             System.out.println("Key : "+m.getKey()+"\t Value : "+m.getValue());
         }
+        for (Integer i:map.keySet()) {
+            System.out.println("Key : "+i+"\t Value : "+map.get(i));
+        }
+        
     }
 }

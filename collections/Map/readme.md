@@ -30,22 +30,31 @@ The `Map` interface in Java is part of the **Java Collections Framework** and re
 
    Example:
    ```java
-   import java.util.HashMap;
-   import java.util.Map;
+    public class HashMapJava {
+        public static void main(String[] args) {
+            // creating object of HashMap Class
+            Map<Integer, String> map = new HashMap<>();
+            // Adding elements to the hashmap using put() method
+            System.out.println("Before adding element : " + map);
+            map.put(101, "A");
+            map.put(102, "B");
+            map.put(103, "C");
+            map.put(104, "D");
+            System.out.println("\nAfter adding element : \t" + map);
+            // Getting value from the hashmap using get() method
+            System.out.println("\nValue for key 101 : " + map.get(101));
 
-   public class HashMapExample {
-       public static void main(String[] args) {
-           Map<String, Integer> map = new HashMap<>();
-           map.put("Apple", 3);
-           map.put("Banana", 2);
-           map.put("Orange", 5);
+            System.out.println(map.keySet());
+            System.out.println(map.values());
 
-           System.out.println("HashMap: " + map);
-           System.out.println("Value for 'Banana': " + map.get("Banana"));
-           map.remove("Apple");
-           System.out.println("Size: " + map.size());
-       }
-   }
+            for (Map.Entry<Integer,String> m:map.entrySet()) {
+                System.out.println("Key : "+m.getKey()+"\t Value : "+m.getValue());
+            }
+            for (Integer i:map.keySet()) {
+                System.out.println("Key : "+i+"\t Value : "+map.get(i));
+            }
+        }
+    }
    ```
 
 2. **`LinkedHashMap`**:
