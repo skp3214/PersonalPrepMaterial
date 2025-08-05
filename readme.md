@@ -1,6 +1,13 @@
-# Collections + DSA in JAVA
+# Personal Interview Preparation Material
 
-### [Collections in Java](/collections/readme.md)
 
-### [Data Structure Implementation in Java](/data-structure-implementation/readme.md)
+## JavaScript 
+
+#### [Notes on JavaScript](javascript/readme.md)
+
+## Collections + DSA in JAVA
+
+#### [Collections in Java](java/collections/readme.md)
+
+#### [Data Structure Implementation in Java](java/data-structure-implementation/readme.md)
 
