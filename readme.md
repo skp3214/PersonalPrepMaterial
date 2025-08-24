@@ -15,3 +15,5 @@
 ## GATE 2026
 
 #### [Engineering Mathematics](/GATE2026/EngineeringMathematics/readme.md)
+
+#### [Aptitude](/GATE2026/Aptitude/readme.md)
