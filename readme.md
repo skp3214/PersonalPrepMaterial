@@ -19,3 +19,5 @@
 #### [Aptitude](/GATE2026/Aptitude/readme.md)
 
 #### [Operating System](/GATE2026/OperatingSystem/readme.md)
+
+#### [Digital Logic](/GATE2026/DigitalLogic/readme.md)
