@@ -6,3 +6,4 @@
 - [Partnership](/GATE2026/Aptitude/partnership.md)
 - [Simple Interest and Compound Interest](/GATE2026/Aptitude/interest.md)
 - [Mixture and Allegations](/GATE2026/Aptitude/mix-alleg.md)
+- [Calendars](/GATE2026/Aptitude/calendars.md)
