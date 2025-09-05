@@ -8,3 +8,4 @@
 - [Mixture and Allegations](/GATE2026/Aptitude/mix-alleg.md)
 - [Calendars](/GATE2026/Aptitude/calendars.md)
 - [Blood Relations](https://www.indiabix.com/verbal-reasoning/blood-relation-test/introduction)
+- [Venn Diagrams](https://www.indiabix.com/verbal-reasoning/venn-diagrams/introduction)
